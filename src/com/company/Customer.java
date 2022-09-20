@@ -13,8 +13,7 @@ public class Customer extends Person{
     }
 
     public void removeFromCart(){
-
-
+        //insert code
     }
 
 }
